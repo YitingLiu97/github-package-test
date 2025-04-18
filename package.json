@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/YitingLiu97/github-package-test/issues"
   },
-  "homepage": "https://github.com/YitingLiu97/github-package-test#readme"
+  "homepage": "https://github.com/YitingLiu97/github-package-test#readme",
+  "publishConfig": {
+  "@YitingLiu97:registry": "https://npm.pkg.github.com"
+}
 }
